@@ -1,11 +1,11 @@
 Dia
 
-1-Acordar as 8h
-2-Tomar cafe da manha
-3-Assistir aula
-4-Almocar
-5-Vago
-6-Trabalho
-7-Intervalo
-8-Ir para casa
-9-Dormir
+1-Acordar as 8h <br>
+2-Tomar cafe da manha <br>
+3-Assistir aula <br>
+4-Almocar <br>
+5-Vago <br>
+6-Trabalho <br>
+7-Intervalo <br>
+8-Ir para casa <br> 
+9-Dormir <br>
